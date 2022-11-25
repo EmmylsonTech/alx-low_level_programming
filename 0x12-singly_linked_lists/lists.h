@@ -1,6 +1,10 @@
-#ifndef LISTS_H
-#define LISTS_H
+#ifndef STDLIB_H
+#define STDLIB_H
+#include <stdlib.h>
+#endif
 
+#ifndef _LISTS_H
+#define _LISTS_H
 
 /**
  * struct list_s - singly linked list
